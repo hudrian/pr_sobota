@@ -1,3 +1,2 @@
-# pr_sobota
-
-prva zmena
+Nazov: tema bc.prace
+Datum: NA
